@@ -1192,3 +1192,7 @@ section .container {
 .pdeg{
   text-decoration: overline;
 }
+
+.portfolio-info p{
+  text-align: justify;
+}
